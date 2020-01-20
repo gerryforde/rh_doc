@@ -5,8 +5,7 @@ You can use the [editor on GitHub](https://github.com/gerryforde/rh_doc/edit/mas
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Requirements
-
-Sheet
+- Sheet
 - Waterproof mattress protector
 - Pillows
 - Pillow Case
