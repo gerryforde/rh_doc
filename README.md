@@ -7,14 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Requirements
 
 Sheet
- Waterproof mattress protector
- Sealy Topper
- Pillows
- Pillow Protector Case
- Duvet
- Duvet Cover
- Scatter Cushion
- Bed Throw
+- Waterproof mattress protector
+- Pillows
+- Pillow Case
+- Duvet
+- Duvet Cover
+- Bed Throw
 
 ```markdown
 Syntax highlighted code block
