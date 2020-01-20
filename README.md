@@ -24,8 +24,6 @@ This procedure descibes how to make a bed.
 8. Tuck excess cover underneath the mattress at the bottom of the bed and smooth out the bed
 9. Throw to be placed at the end of the bed approx. 4 inches from the bottom of the bed.
 
-```markdown
-Syntax highlighted code block
-
 ### Outcome
+
 The bed should be neat and tidy with no obvious lumps in the duvets.
