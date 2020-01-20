@@ -1,10 +1,9 @@
 ## Making a Bed
 
-You can use the [editor on GitHub](https://github.com/gerryforde/rh_doc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This procedure descibes how to make a bed.
 
 ### Requirements
+
 - Sheet
 - Waterproof mattress protector
 - Pillows
@@ -13,30 +12,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Duvet Cover
 - Bed Throw
 
+### Method
+
+1. Remove all dirty linen and place into laundry bag.
+2. Move bed away from wall to gain better access.
+3. Place the bottom sheet on top of the mattress ensuring each corner is securely placed and the sheet is fitted correctly.
+4. Push the bed back to the wall
+5. Put the pillow into the pillow case.
+6. Place the duvet on the edge of the bed, place hands inside the duvet cover to reach each corner and grab the corner of the duvet.
+7. Hold up the duvet cover and ease cover towards top of the bed, straightening as you walk back to the bottom of the bed.
+8. Tuck excess cover underneath the mattress at the bottom of the bed and smooth out the bed
+9. Throw to be placed at the end of the bed approx. 4 inches from the bottom of the bed.
+
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gerryforde/rh_doc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Outcome
+The bed should be neat and tidy with no obvious lumps in the duvets.
