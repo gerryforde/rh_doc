@@ -27,3 +27,5 @@ This procedure descibes how to make a bed.
 ### Outcome
 
 The bed should be neat and tidy with no obvious lumps in the duvets.
+
+### Next steps
